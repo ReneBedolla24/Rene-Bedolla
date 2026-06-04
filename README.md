@@ -38,7 +38,6 @@ Análisis del catálogo de Netflix para identificar tendencias de contenido, cre
 * SQL para limpieza y análisis
 * Power BI para visualización
 * Dashboard interactivo con KPIs
-* 
 ---
 
 ### Análisis de Ventas
