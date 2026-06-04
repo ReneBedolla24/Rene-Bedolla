@@ -3,7 +3,7 @@ Breve presentación
 
 # Hola, soy René Tovar Bedolla
 
-🎯 Data Analyst enfocado en transformar datos en decisiones de negocio.
+Data Analyst enfocado en transformar datos en decisiones de negocio.
 
 ---
 
