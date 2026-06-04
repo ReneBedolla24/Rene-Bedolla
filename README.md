@@ -78,6 +78,7 @@ Me interesa trabajar en roles donde pueda:
 ---
 
 Ver proyectos:
+
 Proyecto de incidencias dentro del área de sistemas:
 https://github.com/ReneBedolla24/proyecto-incidencias
 
