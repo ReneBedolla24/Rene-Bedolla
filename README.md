@@ -70,7 +70,7 @@ Me interesa trabajar en roles donde pueda:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 * LinkedIn: www.linkedin.com/in/rené-tovar-bedolla-5a9035204
 * GitHub: https://github.com/ReneBedolla24
