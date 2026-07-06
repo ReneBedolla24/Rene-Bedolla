@@ -88,5 +88,11 @@ https://github.com/ReneBedolla24/analisis-ventas-sql-powerbi
 Proyecto de análisis del catálogo de netflix:
 https://github.com/ReneBedolla24/proyecto-analisis-netflix
 
+Proyecto de analisis de datos enfocado a una empresa de telecomunicaciones con alto indice de abandono:
+https://github.com/ReneBedolla24/proyecto-telecom
+
+Análisis de rotación de personal utilizando Excel, MySQL, SQL y Power BI:
+https://github.com/ReneBedolla24/hr_analytics
+
 ---
 Siempre abierto a oportunidades como Data Analyst Jr
